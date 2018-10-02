@@ -33,4 +33,5 @@ Test de reclutamiento desarrolladores Frontend y/o Fullstack
 
 #### Instrucciones para subir la solución:
 * Hacer fork al repositorio de este proyecto y subir la solución haciendo un pull request.
+* El PR deberá incluir instrucciones para correr el proyecto, tu nombre y correo electrónico para poder contactarte.
 * Las 2 horas máximo para subir la solución corren a partir de que se hace fork al repositorio.
