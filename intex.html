@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Test</title>
+    <link rel="stylesheet" href="css/main.css">
+</head>
+<body>
+    <div id="contenedor">
+        <div id="seccion1">
+            <h1>Temporizador</h1>
+            <form id="formularioTemp">
+                <label for="tipo_tiempo" class="etiqueta">Selecciona el tipo</label><br/>
+                <select name="tiempo" id="tipo_tiempo">
+                    <option value="horas">Horas</option>
+                    <option value="minutos">Minutos</option>
+                </select><br>
+                <label for="cantidad" class="etiqueta">Selecciona la cantidad</label><br>
+                <input type="number" placeholder="ingrese el tiempo" id="cantidad" class="entrada"><br>
+                <button type="button" class="btn" onclick="creacion()">Iniciar</button>
+                <input type="button" id="alerta" class="btn" disabled onclick="ejecutar()" name="ajustar" value="botòn" />
+            </form>
+        </div>
+        <div id="seccion2">
+
+            <div id="ahora"></div>
+        </div>
+    </div>
+    <script src="js/main.js"></script>
+</body>
+</html>
