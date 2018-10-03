@@ -29,7 +29,7 @@ Test de reclutamiento desarrolladores Frontend y/o Fullstack
 
 #### ⚠⚠⚠ IMPORTANTE ⚠⚠⚠
 * 🕡 Respetar el tiempo de realización de la solución.
-* No importa si la solución no esta completa al 1000%, lo importante es ver como se implementa el uso de javascript, html y css en el tiempo determinado.
+* No importa si la solución no esta completa al 100%, lo importante es ver como se implementa el uso de javascript, html y css en el tiempo determinado.
 
 #### Instrucciones para subir la solución:
 * Hacer fork al repositorio de este proyecto y subir la solución haciendo un pull request.
